@@ -1,7 +1,7 @@
- 1. World of Web 
-    - Client x Server
- 2. HTTP
- 3. Web Service
+ 1. The Internet (World Wide Web)
+    - Client-Server Architecture
+ 2. HTTP/S
+ 3. Web Services
  4. REST
  5. Odata
  6. Sample

@@ -1,22 +1,28 @@
 ### HTTP/1.1
+<small> HTTP/2.0 </small>
 
 
 > HyperText Transfer Protocol
 
 
-#### Wadap! wiki
+#### Wiki
 ![Wikiii](cons/img/http.png)
 
 
+## HTTP
+- Hypertext Transfer Protocol
+- A protocol used to communicate textual resources across the network (N&ast;-systems, locally or in the internet)
+- Uses a *Request-Response* pattern in a *client-server* computing model.
+
+
 #### Protocol ?
-> Protocol, in computer science, a set of rules or procedures for transmitting data between electronic devices, such as computers.-wiki again
+> Protocol, in computer science, a set of rules or procedures for transmitting data between electronic devices, such as computers.
 
 
 #### HTTP Life cycle
-<small>insert diagram image here</small>
 
 
-#### HTTP Anatomy
+#### HTTP Anatomy (Response/Request)
  - Methods (Activities)
 <br>
 ```
@@ -26,13 +32,16 @@
    `PUT`
    `PATCH`
 ```
- - URL
+
+
+
+ - URI
 ```
 http://ip.jsontest.com/
 ```
  - Headers
 
-   [Status Codes](http://www.restapitutorial.com/httpstatuscodes.html) <small>See next page</small>
+   [Status Codes](http://www.restapitutorial.com/httpstatuscodes.html)
  - Payload/Body
 
 
@@ -57,13 +66,12 @@ http://ip.jsontest.com/
 ```
 
 
-##### (For the Geeks/Nerds)
-###### Read more on:
+###### Further Reads
  - TCP
  - UDP
  - Websockets
  - Websockets vs HTTP
- - Stateless, thus, Cookies
+ - Stateless, Cookies
 
 
 > HTTP in Action?
